@@ -160,7 +160,7 @@ public class logic {
             int num = sc.nextInt();
             if(num > toGuess){
                 System.out.println("猜大了");
-            }else if(num < toguess){
+            }else if(num < toGuess){
                 System.out.println("猜小了");
             }else{
                 System.out.println("猜对了");
