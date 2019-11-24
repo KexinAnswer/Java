@@ -1,6 +1,7 @@
 public class Test {
     public static void main(String[] args) {
-        D d = new D();
+        B b = new D();
+        b.func();
     }
 }
 
