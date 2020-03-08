@@ -1,5 +1,6 @@
 import com.sun.xml.internal.ws.api.model.wsdl.WSDLOutput;
 
+// 数据类型
 public class data_operator {
     public static void main(String[] args) {
         // 1.1 整形变量
